@@ -1,4 +1,4 @@
-name: build glinet openwrt
+name: build-glnet-axt1800
 
 on:
   repository_dispatch:
